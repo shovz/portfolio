@@ -10,7 +10,7 @@ function Intro() {
         <p class="section__subtitle section__subtitle--intro">Full Stack Developer</p>
         <img src={shoval_5} alt="shoval pic" class="intro__img"/>
     </section>
-  )
-}
+  );
+};
 
 export default Intro;

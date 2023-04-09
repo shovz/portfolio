@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import JobTracker from '../Pics/JobTracker.JPG';
 import GameHackthon from '../Pics/GameHackthon.JPG';
 import BigBuyers from '../Pics/BigBuyers.JPG';
@@ -83,7 +83,7 @@ function MyWork() {
         </div>
         
     </section>
-  )
-}
+  );
+};
 
 export default MyWork;

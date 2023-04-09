@@ -1,5 +1,6 @@
 import React from 'react';
-import shoval_1 from '../Pics/shoval_1.jpg'
+import shoval_1 from '../Pics/shoval_1.jpg';
+
 function AboutMe() {
   return (
     <section class="about-me" id="about">
@@ -51,7 +52,7 @@ function AboutMe() {
         </div>
         <img src={shoval_1} class="about-me__img" alt="shoval pic 2"/>
     </section>
-  )
-}
+  );
+};
 
 export default AboutMe;

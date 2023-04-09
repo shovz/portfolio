@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 function Services() {
   return (
@@ -30,7 +30,7 @@ function Services() {
         </div>  
         <a href="#work" class="btn">My Work</a>
     </section>
-  )
-}
+  );
+};
 
-export default Services
+export default Services;

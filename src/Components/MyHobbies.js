@@ -1,5 +1,5 @@
 import React from 'react';
-import shoval_2 from '../Pics/shoval_2.jpg'
+import shoval_2 from '../Pics/shoval_2.jpg';
 
 function MyHobbies() {
   return (
@@ -33,7 +33,7 @@ function MyHobbies() {
         <img src={shoval_2} class="about-me__img" alt="shoval pic 2"/>
     </section>
 
-  )
-}
+  );
+};
 
 export default MyHobbies;
